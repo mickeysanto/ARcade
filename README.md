@@ -8,5 +8,5 @@
 - ARcade was made within Unity with the coding done in C#, modeling done in Blender, soundtrack produced in Ableton Live, and the AR image tracking done with Vuforia Engine
 
 # Videos:
-ARcade Installation: https://youtu.be/cQt7uAndsO8
-ARcade Alpha Demo: https://youtube.com/shorts/gqFqN7p3Ens
+- ARcade Installation: https://youtu.be/cQt7uAndsO8
+- ARcade Alpha Demo: https://youtube.com/shorts/gqFqN7p3Ens
